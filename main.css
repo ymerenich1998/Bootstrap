@@ -1,0 +1,35 @@
+.test{
+  height: 200px;
+}
+
+.aa{
+  background-color: grey;
+}
+.bb{
+  background-color: black;
+}
+.cc{
+  background-color: orange;
+}
+.dd{
+  background-color: white;
+}
+.ee{
+  background-color: grey;
+}
+.ff{
+  background-color: green;
+}
+
+.card{
+  height: 400px;
+}
+
+.card img{
+  background-color: grey;
+}
+
+.card .card-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
